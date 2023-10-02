@@ -48,6 +48,12 @@ Ali C. Begen is currently a computer science professor at Ozyegin University and
 - :trophy: _When they go high, we go low: low-latency live streaming in dash.js with LoL_, May Lim, **Mehmet N. Akcay**, Abdelhak Bentaleb, **Ali C. Begen** and Roger Zimmermann, in Proc. ACM Multimedia Systems Conf. (MMSys), Istanbul, Turkey, June 2020 **(Runner-up in Twitch's grand challenge)**
 - :trophy: _Quickly starting media streams using QUIC_, **Sevket Arisu and Ali C. Begen**, in Proc. Packet Video Wksp., Amsterdam, The Netherlands, June 2018 **(Best-paper Award Finalist)**
 
-_List of publications from Ali C. Begen with at least one student. All publications from A. C. Begen: [https://ali.begen.net/current.php](https://ali.begen.net/current.php)_
+_List of publications from Ali C. Begen with at least one student. All publications from Ali C. Begen: [https://ali.begen.net/current.php](https://ali.begen.net/current.php)_
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/16px-Google_Scholar_logo.svg.png) Google Scholar profiles
+
+- [Ali C. Begen](https://scholar.google.com/citations?user=ZIZWsXoAAAAJ)
+- [Zafer Gürel](https://scholar.google.com/citations?user=OnXbgNQAAAAJ)
+- [Burak Kara](https://scholar.google.com/citations?user=mLAuVSsAAAAJ)
 
 _Copyright Notice: The manuscripts on this page are copyrighted by the authors or the journals in which they were published. They are provided for the purpose of non-commercial dissemination of scientific work._
