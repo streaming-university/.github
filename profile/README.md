@@ -19,14 +19,14 @@ Ali C. Begen is currently a computer science professor at Ozyegin University and
 - Adem A. Karmış (MS, 2020)
 - Şevket Arısu (MS, 2018)
 
-### Journal and Magazine Publications (including collaborations)
+### Journal and Magazine Publications
 - _BoB: bandwidth prediction for real-time communications using heuristic and reinforcement learning_, Abdelhak Bentaleb, **Mehmet N. Akcay**, May Lim, **Ali C. Begen** and Roger Zimmermann, IEEE Trans. Multimedia, to appear
 - _Could head motions affect quality when viewing 360-degree videos?_, **Burak Kara, Mehmet N. Akcay, Ali C. Begen,** Saba Ahsan, Igor D.D. Curcio and Emre B. Aksu, IEEE Multimedia
 - _Catching the moment with LoL+ in Twitch-like low-latency live streaming platforms_, Abdelhak Bentaleb, **Mehmet N. Akcay**, May Lim, **Ali C. Begen** and Roger Zimmermann, IEEE Trans. Multimedia, vol. 24, pp. 2300-2314, 2022
 - _Adaptive streaming of content-aware-encoded videos in dash.js_, **Ali C. Begen, Mehmet N. Akcay**, Abdelhak Bentaleb and Alex Giladi, SMPTE Motion Imaging J., vol. 131/4, pp. 30-38, May 2022
 - _Game of protocols: is QUIC ready for prime time streaming?_, **Sevket Arisu, Ertan Yildiz and Ali C. Begen** Int. J. Network Management, Special Issue on QoE-centric Analysis and Management of Communication Networks, vol. 30/3, pp. e2063, May/June 2020
 
-### Conference Publications (including collaborations)
+### Conference Publications
 - _Quality upshifting with auxiliary I-frame splicing_, **Mehmet N. Akcay, Burak Kara, Ali C. Begen,** Saba Ahsan, Igor D.D. Curcio, Kashyap Kammachi-Sreedhar and Emre Aksu, in Proc. IEEE Int. Conf. Quality of Multimedia Experience (QoMEX), Jun. 2023
 - _Media over QUIC: initial testing, findings and results_, **Zafer Gurel, Tugce Erkilic Civelek, Atakan Bodur, Senem Bilgin, Deniz Yeniceri and Ali C. Begen,** in Proc. ACM Multimedia Systems Conf. (MMSys), Jun. 2023
 - _Studying green video distribution as a whole_, **Burak Kara**, Gwendal Simon, Bruno Tuffin, Jerome Vieron and **Ali C. Begen**, in Proc. Int. Wksp. Green Multimedia Systems (GMSys), Jun. 2023
@@ -47,5 +47,7 @@ Ali C. Begen is currently a computer science professor at Ozyegin University and
 - _Metadata-based user interface design for enhanced content access and viewing_, **Adem A. Karmis, Alper Derya and Ali C. Begen**, in Proc. ACM Multimedia Systems Conf. (MMSys), Istanbul, Turkey, June 2020
 - :trophy: _When they go high, we go low: low-latency live streaming in dash.js with LoL_, May Lim, **Mehmet N. Akcay**, Abdelhak Bentaleb, **Ali C. Begen** and Roger Zimmermann, in Proc. ACM Multimedia Systems Conf. (MMSys), Istanbul, Turkey, June 2020 **(Runner-up in Twitch's grand challenge)**
 - :trophy: _Quickly starting media streams using QUIC_, **Sevket Arisu and Ali C. Begen**, in Proc. Packet Video Wksp., Amsterdam, The Netherlands, June 2018 **(Best-paper Award Finalist)**
+
+_List of publications from Ali C. Begen with at least one student. All publications from A. C. Begen: [https://ali.begen.net/current.php](https://ali.begen.net/current.php)_
 
 _Copyright Notice: The manuscripts on this page are copyrighted by the authors or the journals in which they were published. They are provided for the purpose of non-commercial dissemination of scientific work._
