@@ -5,10 +5,14 @@ Multimedia streaming research group at Ozyegin University from Istanbul, Turkey.
 
 Ali C. Begen is currently a computer science professor at Ozyegin University and a technical consultant in Comcast's Advanced Technology and Standards Group. Previously, he was a research and development engineer at Cisco. Begen received his PhD in electrical and computer engineering from Georgia Tech in 2006. To date, he received several academic and industry awards (including an Emmy® Award for Technology and Engineering), and was granted 30+ US patents. In 2020 and 2021, he was listed among the world's most influential scientists in the subfield of networking and telecommunications. More details are at https://ali.begen.net.
 
+## Post-Doc
+- Dr. Ekrem Çetinkaya
+  
 ## Students
 - Tuğçe Civelek (PhD)
 - Zafer Gürel (PhD)
-- Fatih Zengin (BS)
+- Fatih Zengin (PhD)
+- Beyza Demir (MS)
 
 ## Graduated Students
 - Mehmet N. Akçay (PhD, 2022)
