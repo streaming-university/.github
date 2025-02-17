@@ -3,7 +3,7 @@ Multimedia streaming research group at Ozyegin University from Istanbul, Turkey.
 
 ## Supervisor: Ali C. Begen
 
-Ali C. Begen is currently a computer science professor at Ozyegin University and a technical consultant in Comcast's Advanced Technology and Standards Group. Previously, he was a research and development engineer at Cisco. Begen received his PhD in electrical and computer engineering from Georgia Tech in 2006. To date, he received several academic and industry awards (including an Emmy® Award for Technology and Engineering), and was granted 30+ US patents. In 2020 and 2021, he was listed among the world's most influential scientists in the subfield of networking and telecommunications. More details are at https://ali.begen.net.
+Ali C. Begen is a computer science professor at Ozyegin University in Istanbul and the founder of Networked Media, a technology consulting firm specializing in IP video. Through his consultancy, he provides expert services to media-tech companies and law firms. Previously, he was a technical lead at Cisco in San Jose, California. Begen earned his PhD in Electrical and Computer Engineering from Georgia Tech in 2006. Throughout his career, he has been recognized with numerous academic and industry accolades, including an Emmy® Award for Technology and Engineering. He is a Streaming Video Technology Alliance (SVTA) Fellow. He holds over 40 US patents and is a Distinguished Member of the ACM and a Senior Member of the IEEE. More details are at https://ali.begen.net.
 
 ## Post-Doc
 - Dr. Ekrem Çetinkaya
